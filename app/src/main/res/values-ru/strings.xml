@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Трекер привычек</string>
+    <string name="app_name_beta">[B] Трекер привычек</string>
+
+    <!-- Common -->
+    <string name="yes_button">Да</string>
+    <string name="no_button">Нет</string>
+    <string name="delete_button">Удалить</string>
+    <string name="remove_button">Удалить</string>
+    <string name="cancel_button">Закрыть</string>
+    <string name="save_button">Сохранить</string>
+    <string name="bottom_nav_home">Сегодня</string>
+    <string name="bottom_nav_habits">Привычки</string>
+    <string name="bottom_nav_settings">Настройки</string>
+    <string name="action_read_summary">Прочитать</string>
+    <string name="action_read_name">страниц</string>
+    <string name="contacts">Контакты</string>
+
+    <string name="day_1_short">Пн</string>
+    <string name="day_2_short">Вт</string>
+    <string name="day_3_short">Ср</string>
+    <string name="day_4_short">Чт</string>
+    <string name="day_5_short">Пт</string>
+    <string name="day_6_short">Сб</string>
+    <string name="day_7_short">Вс</string>
+
+    <string name="day_1_short_1">П</string>
+    <string name="day_2_short_1">В</string>
+    <string name="day_3_short_1">С</string>
+    <string name="day_4_short_1">Ч</string>
+    <string name="day_5_short_1">П</string>
+    <string name="day_6_short_1">С</string>
+    <string name="day_7_short_1">В</string>
+
+    <string name="reminder_icon_description">Иконка уведомлений</string>
+    <string name="failed_icon_description">Иконка предупреждения</string>
+    <string name="icon_left_description">Левая иконка</string>
+    <string name="icon_right_description">Правая иконка</string>
+    <string name="edit_icon_description">Иконка редактирлвания</string>
+    <string name="statistic_icon_description">Иконка статистики</string>
+    <string name="statistic_month">Месяц</string>
+    <string name="statistic_year">Год</string>
+
+    <string name="marked_as_done">Выполнено</string>
+    <string name="marked_as_missed">Пропущено</string>
+    <!-- Today screen -->
+    <string name="today_screen_statistics_title">Статистика</string>
+    <string name="today_screen_statistics_week">Неделя №%1$s</string>
+    <string name="today_screen_statistics_totally_completed">Всего: %1$s%%</string>
+
+    <string name="today_screen_latest_title">Последние привычки</string>
+
+    <string name="today_screen_habit_state_icon_description">Иконка состояния привычки</string>
+    <string name="today_screen_habit_card_no_planned_habits">Не запланировано привычек</string>
+
+    <string name="today_screen_countable_dialog_title">Установить количественное значение</string>
+    <string name="today_screen_countable_dialog_value_label">Значение</string>
+
+    <!-- Settings screen -->
+    <string name="settings_screen_settings_title">Настройки</string>
+    <string name="ui">Интерфейс</string>
+    <string name="general">Основные</string>
+
+
+    <string name="settings_screen_theme_system">Системная</string>
+    <string name="settings_screen_theme_dark">Тёмная</string>
+    <string name="settings_screen_theme_light">Светлая</string>
+    <string name="settings_screen_theme_title">Тема</string>
+    <string name="settings_screen_theme_icon_description">Иконка темы</string>
+
+    <string name="settings_screen_permissions_title">Требуются разрешения</string>
+    <string name="settings_screen_permission_summary">Мы хотим, чтобы вы предоставили доступ к игнорированию оптимизации батареи и отправки уведомлений</string>
+    <string name="settings_screen_permissions_required_icon_description">Иконка требований разрешений</string>
+
+    <string name="settings_screen_language">Язык</string>
+    <string name="settings_screen_language_icon_description">Иконка языка</string>
+
+    <string name="settings_screen_up_to_date_title">Всё в порядке</string>
+    <string name="settings_screen_up_to_date_summary">Вы предоставили все необходимые разрешения</string>
+    <string name="settings_screen_up_to_date_icon_description">Иконка \"Всё в порядке\"</string>
+
+    <string name="settings_screen_emoji_title">Эмодзи успеха</string>
+    <string name="settings_screen_emoji_energy_icon_description">Иконка энергии</string>
+    <string name="settings_screen_emoji_summary">Введите несколько эмодзи, которые будут отображаться на экране статистики, когда все запланированные привычки будут выполнены</string>
+    <string name="settings_screen_emoji_dialog_title">Установить эмодзи</string>
+    <string name="settings_screen_emoji_dialog_summary">Напишите любимые эмодлзи, разделённые запятыми</string>
+    <string name="settings_screen_emoji_dialog_hint">Введите любимые эмодлзи, разделённые запятыми</string>
+    <string name="settings_screen_emoji_dialog_label">Набор эмодзи</string>
+
+    <string name="settings_screen_version">Версия %1$s</string>
+    <string name="settings_screen_version_title">Версия</string>
+    <string name="settings_screen_version_settings_icon_description">Иконка настройки</string>
+
+    <string name="settings_screen_extend_the_day_title">Продлить день</string>
+    <string name="settings_screen_extend_the_day_summary">Продлить текущий день и не отображать новые события до 3х утра</string>
+    <string name="settings_screen_calendar_icon_description">Иконка календаря</string>
+
+    <string name="screen_settings_about_title">Есть советы или вопросы?</string>
+    <string name="screen_settings_about_description">Вы можете найти меня в телеграм</string>
+    <!-- Habit screen -->
+    <string name="habit_screen_your_habits_title">Ваши привычки</string>
+    <string name="habit_screen_remind_at">Напомним в %1$s</string>
+
+    <string name="habit_screen_add_new_habit_dialog_title">Добавить привычку</string>
+    <string name="habit_screen_add_new_habit_title">Заголовок</string>
+    <string name="habit_screen_add_new_habit_description">Описание</string>
+    <string name="habit_screen_add_new_habit_enter_something_error">Введите что-то</string>
+    <string name="habit_screen_add_new_habit_edit_days_for_habit_button">Редактировать дни</string>
+    <string name="habit_screen_add_new_habit_add_notification_button">Добавить уведомление</string>
+    <string name="habit_screen_add_new_habit_change_notification_button">Включить уведомление</string>
+    <string name="habit_screen_add_new_habit_add_habit_button">Добавить привычку</string>
+    <string name="habit_screen_add_new_habit_days_icon_description">Иконка дней</string>
+    <string name="habit_screen_add_new_habit_error_icon_description">Иконка ошибки</string>
+    <string name="habit_screen_add_new_habit_dialog_countable_icon_description">Иконка перечесления</string>
+    <string name="habit_screen_add_new_habit_dialog_countable_new_button">Сделать количественным</string>
+    <string name="habit_screen_add_new_habit_dialog_countable_change_button">Количественное</string>
+
+    <string name="habit_property_category">Категория</string>
+    <string name="habit_property_category_none">Без категории</string>
+    <string name="habit_property_category_food">Еда</string>
+    <string name="habit_property_category_relax">Отдых и сон</string>
+    <string name="habit_property_category_sport">Физическая активность</string>
+    <string name="habit_property_category_meditation">Медитация</string>
+    <string name="habit_property_category_bad">Больба с плохими привычками</string>
+    <string name="habit_property_category_reading">Чтение</string>
+    <string name="habit_property_category_education">Обучение</string>
+    <string name="habit_property_category_lang">Языки</string>
+    <string name="habit_property_category_skills">Навыки</string>
+    <string name="habit_property_category_planning">Планирование</string>
+    <string name="habit_property_category_working">Работа</string>
+    <string name="habit_property_category_diary">Дневник</string>
+    <string name="habit_property_category_tress">Борьба со стрессом</string>
+    <string name="habit_property_category_comm">Общеник</string>
+    <string name="habit_property_category_self">Время для себя</string>
+    <string name="habit_property_category_friends">Время для близких</string>
+    <string name="habit_property_category_volunteering">Волонтёрство</string>
+    <string name="habit_property_category_personal">Личное</string>
+    <string name="habit_property_category_pet_time">Питомцы</string>
+    <string name="habit_property_category__cooking">Готовка</string>
+    <string name="habit_property_category_cleaning">Уборка</string>
+    <string name="habit_property_category_hobby">Хобби</string>
+    <string name="habit_property_category_budget">Бюджет</string>
+    <string name="habit_property_category_finance_control">Контроль финансов</string>
+    <string name="habit_property_category_work_life_balance">Баланс работы и жизни</string>
+    <string name="habit_property_category_productivity">Продуктивность</string>
+
+    <string name="habit_screen_choose_days_title">Установить дни</string>
+    <string name="habit_screen_choose_time_set_notification_title">Установить уведомление</string>
+
+    <string name="habit_screen_edit_habit_dialog_title">Редактировать</string>
+    <string name="habit_screen_edit_habit_edit_days_button">Изменить дни</string>
+
+    <string name="habit_screen_localize_icon_description">Иконка локализации</string>
+
+    <string name="habit_screen_countable_dialog_title">Установить значение</string>
+    <string name="habit_screen_countable_dialog_value_action_label">Действие</string>
+    <string name="habit_screen_countable_dialog_max_value_label">Максимальное значение</string>
+    <string name="habit_screen_countable_dialog_value_name_label">Имя</string>
+    <string name="habit_screen_countable_dialog_info_icon_description">Иконка информации</string>
+
+    <string name="add_edit_bottom_sheet_cancel_changes">Отменить изменения</string>
+    <string name="add_edit_bottom_sheet_summary">Вы уверены, что хотите закрыть диалог?</string>
+
+    <string name="impex_data_exported_to">Данные сохранены в %1$s</string>
+    <string name="impex_failed_to_export_data">Ошибка экспорта данных</string>
+    <string name="impex_export_statistic">Экспортировать статистику</string>
+    <string name="impex_export_icon_description">Иконка экспорта</string>
+    <string name="impex_export_title">Экспорт</string>
+
+    <string name="habit_screen_habit_card_unplanned">В любое время</string>
+    <string name="habit_screen_habit_card_planned">Запланированные</string>
+
+    <string name="time_input_content_description">Введите время, чтобы настроить уведомление</string>
+
+    <!-- Changelog -->
+    <string name="new_features">Что нового?</string>
+    <string name="changelog_v_1">1.0 beta 6.1\n- Исправлена работа уведомлений\n- Исправлена отмена привычек\n- Добавлена ссылка на tg канал\n- Добавлено отображение списка изменений\n</string>
+    <string name="changelog_v_2">1.0.0\n- Добавлены категории привычек\n- Новый интерфейс карты последних привычек</string>
+    <string name="changelog_v_3">1.0.1\n- Изменено цветовое оформление пропущенных привычек\n- Исправления с уведомлениями</string>
+    <string name="changelog_v_4">1.0.2\n- Исправлено взаимодействие с уведомлениями</string>
+</resources>
