@@ -27,7 +27,7 @@ import java.util.Locale
 
 @Composable
 fun LanguageChooserCard() {
-    val availableLanguages = listOf("ru" to "Русский", "en" to "English")
+    val availableLanguages = listOf("en" to "English", "es" to "Español")
     val context = LocalContext.current
 
     val configuration = LocalConfiguration.current

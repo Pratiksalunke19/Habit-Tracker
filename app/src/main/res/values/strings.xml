@@ -97,7 +97,6 @@
     <string name="settings_screen_calendar_icon_description">Calendar color</string>
 
     <string name="screen_settings_about_title">Have any advice or questions?</string>
-    <string name="screen_settings_about_description">You can find me on telegram</string>
 
     <!-- Habit screen -->
     <string name="habit_screen_your_habits_title">Your habits</string>

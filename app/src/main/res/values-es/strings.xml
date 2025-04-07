@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rastreador de Hábitos</string>
+    <string name="app_name_beta">Rastreador de Hábitos</string>
+
+    <!-- Común -->
+    <string name="yes_button">Sí</string>
+    <string name="no_button">No</string>
+    <string name="delete_button">Eliminar</string>
+    <string name="remove_button">Eliminar</string>
+    <string name="cancel_button">Cerrar</string>
+    <string name="save_button">Guardar</string>
+    <string name="bottom_nav_home">Hoy</string>
+    <string name="bottom_nav_habits">Hábitos</string>
+    <string name="bottom_nav_settings">Configuración</string>
+    <string name="action_read_summary">Leer</string>
+    <string name="action_read_name">páginas</string>
+    <string name="contacts">Contactos</string>
+
+    <string name="day_1_short">Lun</string>
+    <string name="day_2_short">Mar</string>
+    <string name="day_3_short">Mié</string>
+    <string name="day_4_short">Jue</string>
+    <string name="day_5_short">Vie</string>
+    <string name="day_6_short">Sáb</string>
+    <string name="day_7_short">Dom</string>
+
+    <string name="day_1_short_1">L</string>
+    <string name="day_2_short_1">M</string>
+    <string name="day_3_short_1">X</string>
+
+    <string name="day_4_short_1">J</string>
+    <string name="day_5_short_1">V</string>
+    <string name="day_6_short_1">S</string>
+    <string name="day_7_short_1">D</string>
+
+    <string name="reminder_icon_description">Icono de notificaciones</string>
+    <string name="failed_icon_description">Icono de advertencia</string>
+    <string name="icon_left_description">Icono izquierdo</string>
+    <string name="icon_right_description">Icono derecho</string>
+    <string name="edit_icon_description">Icono de edición</string>
+    <string name="statistic_icon_description">Icono de estadísticas</string>
+    <string name="statistic_month">Mes</string>
+    <string name="statistic_year">Año</string>
+
+    <string name="marked_as_done">Completado</string>
+    <string name="marked_as_missed">Omitido</string>
+
+    <!-- Pantalla de hoy -->
+    <string name="today_screen_statistics_title">Estadísticas</string>
+    <string name="today_screen_statistics_week">Semana Nº%1$s</string>
+    <string name="today_screen_statistics_totally_completed">Total: %1$s%%</string>
+
+    <string name="today_screen_latest_title">Hábitos recientes</string>
+
+    <string name="today_screen_habit_state_icon_description">Icono del estado del hábito</string>
+    <string name="today_screen_habit_card_no_planned_habits">No hay hábitos planificados</string>
+
+    <string name="today_screen_countable_dialog_title">Establecer valor cuantitativo</string>
+    <string name="today_screen_countable_dialog_value_label">Valor</string>
+
+    <!-- Settings screen -->
+    <string name="settings_screen_settings_title">Configuración</string>
+    <string name="ui">Interfaz</string>
+    <string name="general">General</string>
+
+    <string name="settings_screen_theme_system">Sistema</string>
+    <string name="settings_screen_theme_dark">Oscuro</string>
+    <string name="settings_screen_theme_light">Claro</string>
+    <string name="settings_screen_theme_title">Tema</string>
+    <string name="settings_screen_theme_icon_description">Icono del tema</string>
+
+    <string name="settings_screen_permissions_title">Permisos requeridos</string>
+    <string name="settings_screen_permission_summary">Nos gustaría que otorgaras acceso para ignorar la optimización de batería y enviar notificaciones</string>
+    <string name="settings_screen_permissions_required_icon_description">Icono de permisos requeridos</string>
+
+    <string name="settings_screen_language">Idioma</string>
+    <string name="settings_screen_language_icon_description">Icono del idioma</string>
+
+    <string name="settings_screen_up_to_date_title">Todo en orden</string>
+    <string name="settings_screen_up_to_date_summary">Has otorgado todos los permisos necesarios</string>
+    <string name="settings_screen_up_to_date_icon_description">Icono de "Todo en orden"</string>
+
+    <string name="settings_screen_emoji_title">Emoji de éxito</string>
+    <string name="settings_screen_emoji_energy_icon_description">Icono de energía</string>
+    <string name="settings_screen_emoji_summary">Introduce algunos emojis que se mostrarán en la pantalla de estadísticas cuando se completen todos los hábitos planificados</string>
+    <string name="settings_screen_emoji_dialog_title">Establecer emojis</string>
+    <string name="settings_screen_emoji_dialog_summary">Escribe tus emojis favoritos separados por comas</string>
+    <string name="settings_screen_emoji_dialog_hint">Introduce tus emojis favoritos separados por comas</string>
+    <string name="settings_screen_emoji_dialog_label">Conjunto de emojis</string>
+
+    <string name="settings_screen_version">Versión %1$s</string>
+    <string name="settings_screen_version_title">Versión</string>
+    <string name="settings_screen_version_settings_icon_description">Icono de configuración</string>
+
+    <string name="settings_screen_extend_the_day_title">Extender el día</string>
+    <string name="settings_screen_extend_the_day_summary">Extiende el día actual y no muestres nuevos eventos hasta las 3 a.m.</string>
+    <string name="settings_screen_calendar_icon_description">Icono del calendario</string>
+
+    <string name="screen_settings_about_title">¿Tienes sugerencias o preguntas?</string>
+    <!-- Habit screen -->
+    <string name="habit_screen_your_habits_title">Tus hábitos</string>
+    <string name="habit_screen_remind_at">Recordar a las %1$s</string>
+
+    <string name="habit_screen_add_new_habit_dialog_title">Agregar hábito</string>
+    <string name="habit_screen_add_new_habit_title">Título</string>
+    <string name="habit_screen_add_new_habit_description">Descripción</string>
+    <string name="habit_screen_add_new_habit_enter_something_error">Introduce algo</string>
+    <string name="habit_screen_add_new_habit_edit_days_for_habit_button">Editar días</string>
+    <string name="habit_screen_add_new_habit_add_notification_button">Agregar notificación</string>
+    <string name="habit_screen_add_new_habit_change_notification_button">Activar notificación</string>
+    <string name="habit_screen_add_new_habit_add_habit_button">Agregar hábito</string>
+    <string name="habit_screen_add_new_habit_days_icon_description">Icono de días</string>
+    <string name="habit_screen_add_new_habit_error_icon_description">Icono de error</string>
+    <string name="habit_screen_add_new_habit_dialog_countable_icon_description">Icono de cantidad</string>
+    <string name="habit_screen_add_new_habit_dialog_countable_new_button">Hacer cuantificable</string>
+    <string name="habit_screen_add_new_habit_dialog_countable_change_button">Cuantificable</string>
+
+    <string name="habit_property_category">Categoría</string>
+    <string name="habit_property_category_none">Sin categoría</string>
+    <string name="habit_property_category_food">Alimentación</string>
+    <string name="habit_property_category_relax">Descanso y sueño</string>
+    <string name="habit_property_category_sport">Actividad física</string>
+    <string name="habit_property_category_meditation">Meditación</string>
+    <string name="habit_property_category_bad">Romper malos hábitos</string>
+    <string name="habit_property_category_reading">Lectura</string>
+    <string name="habit_property_category_education">Educación</string>
+    <string name="habit_property_category_lang">Idiomas</string>
+    <string name="habit_property_category_skills">Habilidades</string>
+    <string name="habit_property_category_planning">Planificación</string>
+    <string name="habit_property_category_working">Trabajo</string>
+    <string name="habit_property_category_diary">Diario</string>
+    <string name="habit_property_category_tress">Gestión del estrés</string>
+    <string name="habit_property_category_comm">Comunicación</string>
+    <string name="habit_property_category_self">Tiempo para uno mismo</string>
+    <string name="habit_property_category_friends">Tiempo con seres queridos</string>
+    <string name="habit_property_category_volunteering">Voluntariado</string>
+    <string name="habit_property_category_personal">Personal</string>
+    <string name="habit_property_category_pet_time">Mascotas</string>
+    <string name="habit_property_category__cooking">Cocina</string>
+    <string name="habit_property_category_cleaning">Limpieza</string>
+    <string name="habit_property_category_hobby">Pasatiempos</string>
+    <string name="habit_property_category_budget">Presupuesto</string>
+    <string name="habit_property_category_finance_control">Control financiero</string>
+    <string name="habit_property_category_work_life_balance">Equilibrio vida-trabajo</string>
+    <string name="habit_property_category_productivity">Productividad</string>
+
+    <string name="habit_screen_choose_days_title">Establecer días</string>
+    <string name="habit_screen_choose_time_sett_notification_title">Establecer notificación</string>
+
+    <string name="habit_screen_edit_habit_dialog_itle">Editar</string>
+    <string name="habit_screen_edit_habit_edit_days_button">Cambiar días</string>
+
+    <string name="habit_screen_localize_icon_description">Icono de localización</string>
+
+    <string name="habit_screen_countable_dialog_title">Establecer valor</string>
+    <string name="habit_screen_countable_dialog_value_action_label">Acción</string>
+    <string name="habit_screen_countable_dialog_max_value_label">Valor máximo</string>
+    <string name="habit_screen_countable_dialog_value_name_label">Nombre</string>
+    <string name="habit_screen_countable_dialog_info_icon_description">Icono de información</string>
+
+    <string name="add_edit_bottom_sheet_cancel_changes">Cancelar cambios</string>
+    <string name="add_edit_bottom_sheet_summary">¿Seguro que deseas cerrar el diálogo?</string>
+
+    <string name="impex_data_exported_to">Datos guardados en %1$s</string>
+    <string name="impex_failed_to_export_data">Error al exportar los datos</string>
+    <string name="impex_export_statistic">Exportar estadísticas</string>
+    <string name="impex_export_icon_description">Icono de exportación</string>
+    <string name="impex_export_title">Exportar</string>
+
+    <string name="habit_screen_habit_card_unplanned">En cualquier momento</string>
+    <string name="habit_screen_habit_card_planned">Planificadas</string>
+
+    <string name="time_input_content_description">Ingresa la hora para configurar la notificación</string>
+
+    <!-- Changelog -->
+    <string name="new_features">¿Qué hay de nuevo?</string>
+    <string name="changelog_v_1">1.0 beta 6.1\n- Corregido el funcionamiento de notificaciones\n- Corregida la cancelación de hábitos\n- Agregado enlace al canal de Telegram\n- Añadida la visualización de cambios\n</string>
+    <string name="changelog_v_2">1.0.0\n- Categorías de hábitos añadidas\n- Nueva interfaz para la tarjeta de últimos hábitos</string>
+    <string name="changelog_v_3">1.0.1\n- Cambiado el color de los hábitos omitidos\n- Correcciones en notificaciones</string>
+    <string name="changelog_v_4">1.0.2\n- Corregida la interacción con notificaciones</string>
+</resources>
